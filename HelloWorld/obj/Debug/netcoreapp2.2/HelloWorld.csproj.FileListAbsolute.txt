@@ -1,0 +1,11 @@
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\RONDINGO\Desktop\AMIS3610\hello-world-dotnet\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
